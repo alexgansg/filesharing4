@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/alexgansg/filesharing4",
+  "repository": "https://github.com/lupanama21/filesharing4",
   "logo": "https://telegra.ph/file/45d769ca2fa039152f9e1.jpg",
   "env": {
     "TG_BOT_TOKEN": {
