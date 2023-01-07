@@ -1,12 +1,12 @@
 {
-  "name": "filesharing4",
+  "name": "file sharing4",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/lupanama21/filesharing4",
+  "repository": "https://github.com/alexgansg/filesharing4",
   "logo": "https://telegra.ph/file/45d769ca2fa039152f9e1.jpg",
   "env": {
     "TG_BOT_TOKEN": {
